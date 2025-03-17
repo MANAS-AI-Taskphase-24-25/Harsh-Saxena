@@ -1,0 +1,6 @@
+Invoking command in '/home/harsh/ros2_ws/build/talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harsh/ros2_ws/src/talker -DCMAKE_INSTALL_PREFIX=/home/harsh/ros2_ws/install/talker
+Invoked command in '/home/harsh/ros2_ws/build/talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harsh/ros2_ws/src/talker -DCMAKE_INSTALL_PREFIX=/home/harsh/ros2_ws/install/talker
+Invoking command in '/home/harsh/ros2_ws/build/talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harsh/ros2_ws/build/talker -- -j12 -l12
+Invoked command in '/home/harsh/ros2_ws/build/talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harsh/ros2_ws/build/talker -- -j12 -l12
+Invoking command in '/home/harsh/ros2_ws/build/talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harsh/ros2_ws/build/talker
+Invoked command in '/home/harsh/ros2_ws/build/talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harsh/ros2_ws/build/talker
